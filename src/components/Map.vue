@@ -15,16 +15,8 @@
                   :draggable="true"
                   :icon="{ url: require('@/assets/fire.png')}"
                   @click="center=m.position"
-
              />
-
-      </span>
-
-
-
-
-
-
+          </span>
       </GmapMap>
   </div>
 </template>
